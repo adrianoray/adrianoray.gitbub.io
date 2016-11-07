@@ -1,11 +1,9 @@
-# Jekyll Resume Theme
-
-# Site settings
+destination: ../site
 title: Adriano Ray
 name: Adriano Ray
 email: adriano@wimse.se
 description: Min CV
-baseurl: "/"
+baseurl: ""
 url: "http://adrianoray.github.io/"
 location: Göteborg, SE
 email_address: adriano@wimse.se
@@ -16,4 +14,3 @@ markdown: kramdown
 prose:
     rooturl: '_data'
     siteurl: 'http://adrianoray.github.io/'
-    

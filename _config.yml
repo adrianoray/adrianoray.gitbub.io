@@ -5,8 +5,8 @@ title: Adriano Ray
 name: Adriano Ray
 email: adriano@wimse.se
 description: Min CV
-baseurl: "http://adrianoray.github.io/"
-url: "http://mattcouchman.co.uk/jekyll-resume/"
+baseurl: "/"
+url: "http://adrianoray.github.io/"
 location: Göteborg, SE
 languages: HTML, CSS and Javascript
 twitter_username: mattcouchman

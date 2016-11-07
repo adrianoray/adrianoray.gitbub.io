@@ -8,11 +8,7 @@ description: Min CV
 baseurl: "/"
 url: "http://adrianoray.github.io/"
 location: Göteborg, SE
-languages: HTML, CSS and Javascript
-twitter_username: mattcouchman
-github_username:  mattcouchman
-codepen_username:  mattcouchman
-email_address: some@email.com
+email_address: adriano@wimse.se
 
 # Build settings
 markdown: kramdown

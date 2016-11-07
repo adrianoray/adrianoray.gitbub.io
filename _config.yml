@@ -12,3 +12,8 @@ email_address: adriano@wimse.se
 
 # Build settings
 markdown: kramdown
+
+prose:
+    rooturl: '_data'
+    siteurl: 'http://adrianoray.github.io/'
+    
